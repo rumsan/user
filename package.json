@@ -9,9 +9,6 @@
   "author": "Rumsan Associates",
   "license": "ISC",
   "dependencies": {
-    "bluebird": "^3.5.1",
-    "crypto": "^0.0.3",
-    "handlebars": "^4.0.8",
     "jsonwebtoken": "^8.2.0",
     "lodash": "^4.17.10",
     "mongoose": "^5.2.8"
@@ -19,7 +16,6 @@
   "devDependencies": {
     "esdoc": "^1.1.0",
     "esdoc-node": "^1.0.3",
-    "esdoc-standard-plugin": "^1.0.0",
-    "nodemailer": "^4.6.8"
+    "esdoc-standard-plugin": "^1.0.0"
   }
 }

@@ -1,9 +1,7 @@
 #Rumsan
 play/
 sandbox/
-tests/
-config/
-*.lock
+yarn.lock
 
 # Logs
 logs
