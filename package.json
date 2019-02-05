@@ -1,0 +1,16 @@
+{
+  "name": "rs-user",
+  "version": "1.0.0",
+  "description": "RS User module",
+  "main": "lib/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rumsan Associates",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^0.0.3",
+    "handlebars": "^4.0.8",
+    "kue": "^0.11.5"
+  }
+}
