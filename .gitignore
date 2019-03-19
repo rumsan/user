@@ -2,6 +2,7 @@
 play/
 sandbox/
 yarn.lock
+play.js
 
 # Logs
 logs
