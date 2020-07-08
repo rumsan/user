@@ -17,6 +17,9 @@
   "devDependencies": {
     "esdoc": "^1.1.0",
     "esdoc-node": "^1.0.3",
-    "esdoc-standard-plugin": "^1.0.0"
+    "esdoc-standard-plugin": "^1.0.0",
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
   }
 }
