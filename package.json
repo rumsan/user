@@ -11,7 +11,10 @@
   "dependencies": {
     "jsonwebtoken": "^8.2.0",
     "lodash": "^4.17.10",
-    "mongoose": "^5.2.8"
+    "mongoose": "^5.2.8",
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.21.0"
   },
   "devDependencies": {
     "esdoc": "^1.1.0",
